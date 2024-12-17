@@ -1,2 +1,2 @@
 # FILM
-# 11111111
+# I am creating a project on a fully automatic film processor. But we have absolutely no idea how to make this thing. I will refer to Fujifilm related antique film development machines and try to reduce the cost so that everyone can use it. I hope everyone can use this project widely, but since I just started using github, I still need to investigate the types of licenses. The above is machine translation.
